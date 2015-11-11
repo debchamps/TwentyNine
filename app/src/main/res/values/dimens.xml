@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="trump_card_width">40dp</dimen>
+    <dimen name="trump_card_height">60dp</dimen>
+    <dimen name="player_image_width">60dp</dimen>
+    <dimen name="player_image_height">60dp</dimen>
+    <dimen name="bid_text_size">20dp</dimen>
+    <dimen name="card_width">48dp</dimen>
+    <dimen name="card_height">64dp</dimen>
+    <dimen name="bottom_card_margin">12dp</dimen>
+
+</resources>
